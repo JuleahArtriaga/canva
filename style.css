@@ -52,10 +52,10 @@ a:link {
 }
 
 a:visited {
-  color: #fff
+  color: rgb(250, 255, 252)
 }
 a:hover {
-  color: rgb(222, 66, 10);
+  color: rgb(42, 213, 79);
 }
 
 nav {
